@@ -39,3 +39,9 @@ end)
 6. Make sure to add these items to whatever shop you want to sell it in by heading to qb-shops/config.lua
 
 If you want to add custom food just follow these steps and change the variables and images needed for them.
+
+## How to make custom inventory images
+1. Find an image online that you like and save it as a .png file to your computer.
+2. Head to https://resizing.app/features/resize-png/ to resize your image to 100x100 usually works pretty well
+3. Head to https://www.remove.bg/upload and use this to remove the background from the image.
+4. Save the image and you should now have a custom inventory image.
